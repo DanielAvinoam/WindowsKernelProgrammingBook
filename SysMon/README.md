@@ -1,4 +1,4 @@
-**Credit to @AvivShabtay on this README file.**
+**Credit to @AvivShabtay for this README file.**
 
 # System monitor
 Part of my practice in kernel-mode programming which I'm learning from <i>Windows Kernel Programming, Pavel Yosifuvich, 2020, chapter 8</i>,
